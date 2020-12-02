@@ -7,3 +7,6 @@ git remote add origin https://github.com/Aparna2703/new_customer_app.git
 git branch -M main
 git push -u origin main
 
+git add.
+git commit -m "fileaddingtogitafterintitialisatio"
+git push -u origin master
